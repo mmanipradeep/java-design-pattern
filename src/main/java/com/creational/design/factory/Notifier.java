@@ -1,4 +1,4 @@
-package com.creational.design;
+package com.creational.design.factory;
 
 public interface Notifier<T> {
     void notify(T obj);
